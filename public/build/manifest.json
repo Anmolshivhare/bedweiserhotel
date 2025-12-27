@@ -1,0 +1,154 @@
+{
+  "_jquery-k0od7s7X.js": {
+    "file": "assets/jquery-k0od7s7X.js",
+    "name": "jquery"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@7.1.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-BfBXV7Mm.woff2",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@7.1.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@7.1.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-BVHPE7da.woff2",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@7.1.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@7.1.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-8GirhLYJ.woff2",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@7.1.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@7.1.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility-DnhYSyY-.woff2",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@7.1.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  },
+  "node_modules/.pnpm/bootstrap-icons@1.13.1/node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-BeopsB42.woff",
+    "src": "node_modules/.pnpm/bootstrap-icons@1.13.1/node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+  },
+  "node_modules/.pnpm/bootstrap-icons@1.13.1/node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-mSm7cUeB.woff2",
+    "src": "node_modules/.pnpm/bootstrap-icons@1.13.1/node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+  },
+  "resources/images/facts-bg.webp": {
+    "file": "assets/facts-bg-CJ9sggNe.webp",
+    "src": "resources/images/facts-bg.webp"
+  },
+  "resources/images/fav-icon.webp": {
+    "file": "assets/favicon-CxZ5yS3q.png",
+    "src": "resources/images/fav-icon.webp"
+  },
+  "resources/images/footer_logo.svg": {
+    "file": "assets/footer_logo-DPnlv2CZ.svg",
+    "src": "resources/images/footer_logo.svg"
+  },
+  "resources/images/footer_logo1.svg": {
+    "file": "assets/footer_logo-DPnlv2CZ.svg",
+    "src": "resources/images/footer_logo.svg"
+  },
+  "resources/images/portfolio/about.jpg": {
+    "file": "assets/about-5HX2kaJj.jpg",
+    "src": "resources/images/portfolio/about.jpg"
+  },
+  "resources/images/portfolio/about.png": {
+    "file": "assets/about-CFjFTZlZ.png",
+    "src": "resources/images/portfolio/about.png"
+  },
+  "resources/images/portfolio/favicon.png": {
+    "file": "assets/favicon-CxZ5yS3q.png",
+    "src": "resources/images/fav-icon.webp"
+  },
+  "resources/images/portfolio/og-image.jpg": {
+    "file": "assets/favicon-CxZ5yS3q.png",
+    "src": "resources/images/fav-icon.webp"
+  },
+  "resources/images/portfolio/profile.jpg": {
+    "file": "assets/about-5HX2kaJj.jpg",
+    "src": "resources/images/portfolio/about.jpg"
+  },
+  "resources/images/portfolio/profile.png": {
+    "file": "assets/profile-teF-dTrt.png",
+    "src": "resources/images/portfolio/profile.png"
+  },
+  "resources/images/portfolio/project1.jpg": {
+    "file": "assets/project1-DZsBku4L.jpg",
+    "src": "resources/images/portfolio/project1.jpg"
+  },
+  "resources/images/portfolio/project2.jpg": {
+    "file": "assets/project1-DZsBku4L.jpg",
+    "src": "resources/images/portfolio/project1.jpg"
+  },
+  "resources/images/portfolio/project3.jpg": {
+    "file": "assets/project1-DZsBku4L.jpg",
+    "src": "resources/images/portfolio/project1.jpg"
+  },
+  "resources/images/portfolio/project4.jpg": {
+    "file": "assets/project1-DZsBku4L.jpg",
+    "src": "resources/images/portfolio/project1.jpg"
+  },
+  "resources/images/portfolio/project5.jpg": {
+    "file": "assets/project1-DZsBku4L.jpg",
+    "src": "resources/images/portfolio/project1.jpg"
+  },
+  "resources/images/portfolio/project6.jpg": {
+    "file": "assets/project1-DZsBku4L.jpg",
+    "src": "resources/images/portfolio/project1.jpg"
+  },
+  "resources/js/front/front.js": {
+    "file": "assets/front-C362R3HM.js",
+    "name": "front",
+    "src": "resources/js/front/front.js",
+    "isEntry": true,
+    "imports": [
+      "_jquery-k0od7s7X.js"
+    ]
+  },
+  "resources/js/portfolio/portfolio.js": {
+    "file": "assets/portfolio-CD8uf8sP.js",
+    "name": "portfolio",
+    "src": "resources/js/portfolio/portfolio.js",
+    "isEntry": true,
+    "imports": [
+      "_jquery-k0od7s7X.js"
+    ]
+  },
+  "resources/scss/front/fonts/Mulish-SemiBold.ttf": {
+    "file": "assets/Mulish-SemiBold-DR2FFfPc.ttf",
+    "src": "resources/scss/front/fonts/Mulish-SemiBold.ttf"
+  },
+  "resources/scss/front/fonts/WorkSans-Bold.ttf": {
+    "file": "assets/WorkSans-Bold-vxqyxmNL.ttf",
+    "src": "resources/scss/front/fonts/WorkSans-Bold.ttf"
+  },
+  "resources/scss/front/fonts/WorkSans-Light.ttf": {
+    "file": "assets/WorkSans-Light-BfMVmBsb.ttf",
+    "src": "resources/scss/front/fonts/WorkSans-Light.ttf"
+  },
+  "resources/scss/front/fonts/WorkSans-Medium.ttf": {
+    "file": "assets/WorkSans-Medium-086MIOl0.ttf",
+    "src": "resources/scss/front/fonts/WorkSans-Medium.ttf"
+  },
+  "resources/scss/front/fonts/WorkSans-Regular.ttf": {
+    "file": "assets/WorkSans-Regular-D8Pgfzz-.ttf",
+    "src": "resources/scss/front/fonts/WorkSans-Regular.ttf"
+  },
+  "resources/scss/front/fonts/WorkSans-SemiBold.ttf": {
+    "file": "assets/WorkSans-SemiBold-ClLydlu_.ttf",
+    "src": "resources/scss/front/fonts/WorkSans-SemiBold.ttf"
+  },
+  "resources/scss/front/front.scss": {
+    "file": "assets/front-CT7HNfCm.css",
+    "src": "resources/scss/front/front.scss",
+    "isEntry": true,
+    "name": "front",
+    "names": [
+      "front.css"
+    ]
+  },
+  "resources/scss/portfolio/portfolio.scss": {
+    "file": "assets/portfolio-Bxjw25X3.css",
+    "src": "resources/scss/portfolio/portfolio.scss",
+    "isEntry": true,
+    "name": "portfolio",
+    "names": [
+      "portfolio.css"
+    ]
+  }
+}
